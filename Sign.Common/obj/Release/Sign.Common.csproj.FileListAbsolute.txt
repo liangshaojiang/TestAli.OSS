@@ -1,0 +1,4 @@
+F:\Test\TestAli.OSS\Sign.Common\bin\Release\Sign.Common.dll
+F:\Test\TestAli.OSS\Sign.Common\bin\Release\Sign.Common.pdb
+F:\Test\TestAli.OSS\Sign.Common\obj\Release\Sign.Common.dll
+F:\Test\TestAli.OSS\Sign.Common\obj\Release\Sign.Common.pdb
